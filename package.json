@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "just learning ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mahmood Salah",
+  "license": "ISC"
+}
