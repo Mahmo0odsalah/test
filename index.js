@@ -11,7 +11,7 @@ app.listen("3000");
 app.use(express.static("views"));
 app.use(bodyParser.urlencoded({extended:false}))
 app.get("/", (req, res) => {
-  res.send("suck itttt");
+  
 });
 
 app.get("/json", (req, res) => {
